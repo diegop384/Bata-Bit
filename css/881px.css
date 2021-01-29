@@ -1,0 +1,22 @@
+.product-cards-container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.main-tables-container{
+    width: 100%;
+    max-width: 100%;
+    height: 390px;
+    flex-wrap: wrap;
+}
+
+.main-coins{
+    width: 50%;
+}
+
+.main-comisions{
+    width: 50%;
+}
